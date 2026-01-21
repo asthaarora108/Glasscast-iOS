@@ -12,6 +12,20 @@ A beautiful, modern weather app built with SwiftUI and powered by AI-assisted de
 - **Smart Search** - Search cities with autocomplete
 - **Offline Support** - Graceful error handling and loading states
 
+  ### Home Screen
+  <img src="https://github.com/user-attachments/assets/2565144b-410b-47fa-a4a6-2fc71f8b195a" width="300" />
+
+
+### Search & Favorites
+<img src="https://github.com/user-attachments/assets/0ab01ba4-2859-4b7f-8c7e-6d705f98a258" width="300" />
+
+
+
+### Settings
+<img src="https://github.com/user-attachments/assets/d935d159-5570-4c0d-84c9-f89fff8fb999" width="300" />
+
+
+
 
 ## 🛠️ Tech Stack
 
